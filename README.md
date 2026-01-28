@@ -1,14 +1,14 @@
-🔧 Sobre mim
+## Sobre mim
 
 Sou desenvolvedor e maker com foco em engenharia prática, usando o 3D como ferramenta, não como fim. Trabalho na interseção entre impressão 3D, eletrônica, automação e design industrial, sempre pensando em soluções funcionais, modulares e escaláveis.
 
-### Atualmente estou desenvolvendo projetos próprios como:
+## Atualmente estou desenvolvendo projetos próprios como:
 CTU (Caixa Técnica Universal) — carcaça modular para eletrônica e automação<br>
 Auryduino — controlador customizado pensado como plataforma reutilizável<br>
 BEP (Bancada Eletrônica Portátil) — uma maleta autônoma com energia,<br>instrumentação e dados para uso em campo e bancada<br>
 
-## No futuro:
-### Tenho interesse em:<br>
+### No futuro:
+## Tenho interesse em:<br>
 <ul>
   <li>Construção de drone FPV<br>
   <li>Sistemas embarcados<br>
