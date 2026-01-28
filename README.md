@@ -1,8 +1,29 @@
-Programador Júnior em Python, com foco em análise e processamento de dados para bancos, corretoras e fintechs.
-Experiência em automação, validação de dados e scripts confiáveis.
-PCD, buscando oportunidade remota para atuação profissional e contínua evolução técnica.
+🔧 Sobre mim
 
-*Junior Python Developer | Data & Automation*  
+Sou desenvolvedor e maker com foco em engenharia prática, usando o 3D como ferramenta, não como fim. Trabalho na interseção entre impressão 3D, eletrônica, automação e design industrial, sempre pensando em soluções funcionais, modulares e escaláveis.
+
+### Atualmente estou desenvolvendo projetos próprios como:
+CTU (Caixa Técnica Universal) — carcaça modular para eletrônica e automação<br>
+Auryduino — controlador customizado pensado como plataforma reutilizável<br>
+BEP (Bancada Eletrônica Portátil) — uma maleta autônoma com energia,<br>instrumentação e dados para uso em campo e bancada<br>
+
+## No futuro:
+### Tenho interesse em:<br>
+<ul>
+  <li>Construção de drone FPV<br>
+  <li>Sistemas embarcados<br>
+  <li>Automação e mecatrônica<br>
+  <li>Eletrônica aplicada<br>
+  <li>Design de produtos industriais<br>
+  <li>Impressão 3D (FDM e resina)<br>
+  <li>Soluções técnicas para oficina e uso real</li><br>
+</ul>
+Meu objetivo é evoluir de protótipos em 3D para sistemas completos, integrando hardware, software e estrutura física, com mentalidade de longo prazo e padrão industrial.
+
+⚙️ Menos hype. Mais engenharia.
+🧠 Projeto que funciona é projeto que fica.
+
+*Junior Python Developer | Arduino | Robotica*  
 🇧🇷 Brazil
 
 <strong>PORQUE EU GOSTO DE PYTHON</strong>
@@ -25,9 +46,7 @@ Esse foco reflete uma mentalidade alinhada ao medcado financeiro: menis improvis
 <br>
 <ul>
   <li>Python</li>
-  <li>Pandas</li>
-  <li>Numpy</li>
-  <li>SQL</li>
+  <li>Arduino</li>
 </ul>
 <br>
 <strong>GITHUB STATS</strong>
