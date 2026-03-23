@@ -1,30 +1,45 @@
-## Sobre mim
+# 👨‍💻 Aury
 
-Sou desenvolvedor e maker com foco em engenharia prática, usando o 3D como ferramenta, não como fim. Trabalho na interseção entre impressão 3D, eletrônica, automação e design industrial, sempre pensando em soluções funcionais, modulares e escaláveis.
+Desenvolvedor focado em soluções práticas com **Python** e **C++**.
 
-## Atualmente estou desenvolvendo projetos próprios como:
-CTU (Caixa Técnica Universal) — carcaça modular para eletrônica e automação<br>
-Auryduino — controlador customizado pensado como plataforma reutilizável<br>
-BEP (Bancada Eletrônica Portátil) — uma maleta autônoma com energia,<br>instrumentação e dados para uso em campo e bancada<br>
+Crio ferramentas que resolvem problemas reais, com foco em automação, desempenho e simplicidade.
 
-### No futuro:
-## Tenho interesse em:<br>
-<ul>
-  <li>Construção de drone FPV<br>
-  <li>Sistemas embarcados<br>
-  <li>Automação e mecatrônica<br>
-  <li>Eletrônica aplicada<br>
-  <li>Design de produtos industriais<br>
-  <li>Impressão 3D (FDM e resina)<br>
-  <li>Soluções técnicas para oficina e uso real</li><br>
-</ul>
-Meu objetivo é evoluir de protótipos em 3D para sistemas completos, integrando hardware, software e estrutura física, com mentalidade de longo prazo e padrão industrial.
+---
 
-⚙️ Menos hype. Mais engenharia.
-🧠 Projeto que funciona é projeto que fica.
+## 🚀 Tecnologias
 
-*Junior Python Developer | Arduino | Robotica*  
-🇧🇷 Brazil
+* Python (Automação, análise de dados)
+* C++ (Performance, lógica e base sólida)
+
+---
+
+## 💼 Projetos em destaque
+
+### 📊 Organizador Financeiro Automático
+
+Ferramenta que organiza planilhas financeiras e gera relatórios com lucro, despesas e gráficos automaticamente.
+
+* Leitura inteligente de planilhas
+* Detecção automática de formato
+* Geração de relatórios em Excel
+
+---
+
+## 🎯 Objetivo
+
+Desenvolver soluções simples, eficientes e aplicáveis no mundo real, principalmente para pequenas empresas.
+
+---
+
+## 📫 Contato
+
+* Email: [aury_lima41@outlook.com](mailto:seuemail@email.com)
+
+---
+
+## ⚡ Filosofia
+
+Código não é só teoria — é ferramenta para resolver problema e gerar resultado.
 
 <strong>PORQUE EU GOSTO DE PYTHON</strong>
 
@@ -39,15 +54,11 @@ Python permite desenvolver scripts claros, previsíveis e fáceis de manter, ide
 Esse foco reflete uma mentalidade alinhada ao medcado financeiro: menis improviso, mais controle; menos aparência, mais consistência.<br><br>
 
 <strong>MINHAS REDES SOCIAIS</strong><br>
-[Auridinei| Linkdin](https://www.linkedin.com/in/auridinei/)<br>
+[Auridinei| Linkedin](https://www.linkedin.com/in/auridinei/)<br>
 [Aury Dev | Instagram](https://www.instagram.com/aurydev/)
 <br><br>
 <strong> TECNOLOGIAS PRINCIPAIS </strong>
 <br>
-<ul>
-  <li>Python</li>
-  <li>Arduino</li>
-</ul>
 <br>
 <strong>GITHUB STATS</strong>
 
