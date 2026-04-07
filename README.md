@@ -1,33 +1,21 @@
 # 👨‍💻 Aury
 
-Desenvolvedor focado em soluções práticas com **Python** e **C++**.
-
-Crio ferramentas que resolvem problemas reais, com foco em automação, desempenho e simplicidade.
+Desenvolvedor focado em sistemas financeiros e bancários.
+Estudando para área de TI do Banco do Brasil.
+Projetos com Python, APIs, SQL e matemática financeira.
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Sempre aprendendo
 
-* Python (Automação, análise de dados)
-* C++ (Performance, lógica e base sólida)
+Desenvolvedor em formação com foco em sistemas bancários e financeiros.
+Experiência prática com Python, SQL, APIs REST e lógica aplicada a finanças.
 
 ---
 
 ## 💼 Projetos em destaque
 
-### 📊 Organizador Financeiro Automático
-
-Ferramenta que organiza planilhas financeiras e gera relatórios com lucro, despesas e gráficos automaticamente.
-
-* Leitura inteligente de planilhas
-* Detecção automática de formato
-* Geração de relatórios em Excel
-
----
-
-## 🎯 Objetivo
-
-Desenvolver soluções simples, eficientes e aplicáveis no mundo real, principalmente para pequenas empresas.
+### 📊 Simulador de Juros compostos
 
 ---
 
