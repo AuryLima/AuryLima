@@ -1,15 +1,15 @@
 # 👨‍💻 Desenvolvedor focado em Sistemas Bancários
 
-Atualmente em preparação para a área de TI do Banco do Brasil, com foco em desenvolvimento de sistemas financeiros, APIs e banco de dados.
+Atualmente em preparação para a área de TI, com foco em desenvolvimento de sistemas financeiros, APIs e banco de dados.
 
 ---
 
 ## 🚀 Tecnologias
 
-* Python
+* Java
 * SQL (PostgreSQL / MySQL)
 * Git & GitHub
-* APIs REST
+* APIs REST (Aprendendo)
 
 ---
 
