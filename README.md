@@ -3,9 +3,15 @@
 Atualmente em preparação para a área de TI, com foco em desenvolvimento de sistemas financeiros, APIs e banco de dados.
 
 ---
-
+[Meu Portfólio](https://meu-portifolio-orpin-beta.vercel.app)<br>
+[Meu Linkedin](https://www.linkedin.com/in/auridinei/)<br>
+[Meu Github](https://github.com/AuryLima)<br>
 ## 🚀 Tecnologias
-
+* Node.js
+* Next
+* TypeScript
+* Tailwind CSS
+* Python
 * Java
 * SQL (PostgreSQL / MySQL)
 * Git & GitHub
