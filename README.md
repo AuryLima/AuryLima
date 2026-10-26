@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Auridinei Abreu 👋</h1>
 
 <p align="center">
-  Desenvolvedor Python e Front-end · Transformando ideias em código
+  Desenvolvedor Aplicações e Front-end Transformando ideias em código
 </p>
 
 <p align="center">
