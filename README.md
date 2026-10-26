@@ -16,7 +16,7 @@
 
 - 🐍 Desenvolvo aplicações que auxiliam seu dia a dia**Python**
 - 🎨 Crio interfaces com **HTML5**, **CSS3** e **JavaScript**
-- 📚 Atualmente estudando: **Node Js** (ex.: Django, React, TypeScript)
+- 📚 Atualmente estudando: **Node Js**
 - 🌱 Sempre aprendendo e compartilhando projetos
 - 📫 Fale comigo: **auridineiabreu@gmail.com**
 
