@@ -46,6 +46,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
+| [Site Pessoal](https://github.com/AuryLima/Site_oficial) | Site pessoal | Node.js |
 | [Em Breve](https://github.com/SEU_USUARIO/projeto1) | Breve descrição do que ele faz | Python |
 | [Em Breve](https://github.com/SEU_USUARIO/projeto2) | Breve descrição do que ele faz | HTML · CSS · JS |
 | [Em Breve](https://github.com/SEU_USUARIO/projeto3) | Breve descrição do que ele faz | Python · JS |
