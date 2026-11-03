@@ -1,8 +1,7 @@
 # Hi, I'm Auridinei Abreu 👋
 
 <p align="center">
-  Python & Front-End Developer · Turning ideas into code
-</p>
+Front-end Developer</p>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AuryLima&rank_icon=github&custom_title=Minhas%20atualiza%C3%A7%C3%B5es%20%20%28AuryLima%29&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=AuryLima&rank_icon=github&custom_title=Minhas%20atualiza%C3%A7%C3%B5es%20%20%28AuryLima%29&show_icons=true&include_all_commits=true&theme=light_github)
 
