@@ -55,7 +55,7 @@ Front-end Developer</p>
 |---------|-------------|--------------|
 | [GESTOR DE DIVIDENDOS](https://github.com/AuryLima/GestorDividendos) | This application is used for storing and managing assets acquired on the stock exchange. | Java |
 | [HOVER MENU](https://github.com/AuryLima/MENU_HOVER) | I created this hover menu to practice using React. | HTML · CSS · JavaScript . React |
-| [Project Name 3](https://github.com/SEU_USUARIO/project3) | A brief description of the project | Python · JavaScript |
+| [Gestor de Dividendos](https://github.com/AuryLima/app-gestor) | Dividend and stock manager built with Java for Windows | Java |
 
 ---
 
