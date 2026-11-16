@@ -4,6 +4,12 @@
   I'm a back-end developer working with the Java ecosystem ☕
 </p>
 
+<details>
+  Hello, I’m Auridinei. I’m a back-end developer working with Java. I am a person with a disability, but that doesn’t hold me back—in      fact, it serves as fuel for me to overcome obstacles. 
+</details>
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=AuryLima)](https://github.com/stats-organization/github-stats-extended)
+
 ## Technologies I study and work with
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -29,3 +35,9 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+
+
+
+
+
