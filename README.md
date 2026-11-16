@@ -14,34 +14,18 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
- ## 📊 GitHub Stats & 🚀 Upcoming Projects
+## Currently
+- 🔭 Building my portfolio with Java back-end projects
+- 🌱 Learning more about Spring Boot, microservices and cloud
+- 💬 Ask me about Java, REST APIs and databases
+- 🤝 Open to collaborations and open source contributions
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 GitHub Stats
-
+## Vamos Conversar?
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <a href="https://www.linkedin.com/in/auridinei-abreu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:auridineiabreu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Upcoming Projects
-
-* Adicione aqui os seus projetos futuros...
-
-</td>
-</tr>
-</table>
-
