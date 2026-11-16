@@ -1,0 +1,47 @@
+name: Atualizar GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gerar GitHub Stats Card
+        uses: rickstaa/github-readme-stats-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: stats
+          options: "username=AuryLima&show_icons=true&theme=radical&hide_border=true"
+          path: profile/stats.svg
+
+      - name: Gerar Top Languages Card
+        uses: rickstaa/github-readme-stats-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: top-langs
+          options: "username=AuryLima&layout=compact&theme=radical&hide_border=true"
+          path: profile/top-langs.svg
+
+      - name: Gerar Streak Stats Card
+        uses: DenverCoder1/github-readme-streak-stats-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: AuryLima
+          theme: radical
+          hide_border: true
+          output: profile/streak.svg
+
+      - name: Salvar imagens no repositório
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add profile/*.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualiza cards de estatísticas" && git push)
